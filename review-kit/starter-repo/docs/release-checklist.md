@@ -1,5 +1,6 @@
 # Release Checklist
 
-- release owner: TBD
+- release owner: Yujin
 - customer notice: draft
 - hotfix status: none
+
