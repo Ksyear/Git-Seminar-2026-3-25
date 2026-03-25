@@ -1,2 +1,3 @@
 REVIEWER=TBD
 ROLLBACK_PLAN=manual-check
+NOTICE_REVIEW=team-alpha
